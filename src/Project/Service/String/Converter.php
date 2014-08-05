@@ -6,6 +6,7 @@ class Converter
 {
     /**
      * Converts letters to numbers in a string
+     * @param string $randString random string
      * @return string
      */
     public function convert($randString)

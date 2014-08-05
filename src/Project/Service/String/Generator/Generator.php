@@ -1,6 +1,6 @@
 <?php
 
-namespace Project\Service\String;
+namespace Project\Service\String\Generator;
 
 class Generator
 {
